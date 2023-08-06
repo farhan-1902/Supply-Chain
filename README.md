@@ -1,5 +1,5 @@
-#Implementing Blockchain Technology in Business Infrastructure
-##Problem Statement:
+# Implementing Blockchain Technology in Business Infrastructure
+## Problem Statement:
 Counterfeit products have always been a serious concern for businesses across various
 industries. With the proliferation of digital technology and the ease of accessing
 information, scammers have become increasingly sophisticated in their attempts to deceive
@@ -14,3 +14,13 @@ that they have been deceived. These fake products can cause harm to their health
 leading to potential lawsuits and significant medical expenses. This has led to a growing
 concern among consumers about the authenticity of the products they purchase, and the
 need for businesses to provide greater transparency and trustworthiness. 
+
+## PROJECT OUTCOME: Product
+We aim to deliver a product that could potentially offer several benefits to
+businesses, including increased efficiency, reduced costs, improved transparency,
+and better customer trust. By providing a secure and reliable system for tracking the
+journey of products through the supply chain, businesses can build trust with their
+customers and mitigate the risks of counterfeiting. Additionally, a blockchain-based
+payment system can offer faster processing times, lower transaction fees, and greater
+security, which can improve the financial processes of businesses and ultimately
+enhance their competitiveness in the market. 
