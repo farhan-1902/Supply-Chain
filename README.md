@@ -15,6 +15,33 @@ leading to potential lawsuits and significant medical expenses. This has led to 
 concern among consumers about the authenticity of the products they purchase, and the
 need for businesses to provide greater transparency and trustworthiness. 
 
+# MOTIVATION
+## 1. Building Trust with Customers:
+Counterfeiting is a significant problem in many industries, including
+fashion, electronics, and pharmaceuticals. To combat this problem, several
+companies have started to use blockchain technology to authenticate their
+products and create a transparent supply chain. For example, Walmart is
+using blockchain to track the origin and journey of its produce, while Louis
+Vuitton is using blockchain to authenticate its luxury goods. These
+initiatives aim to build trust with customers by providing assurance that the
+products they are purchasing are authentic and have been produced in a
+responsible manner. By exploring the use of blockchain technology in this
+context, the project can help businesses to build trust with their customers
+and create a more transparent and accountable supply chain.
+## 2. Improving Payment Systems:
+Blockchain technology has the potential to transform payment systems by
+providing a secure, transparent, and efficient way of processing
+transactions. Several companies have already started to explore the use of
+blockchain in payment systems, including Mastercard, Visa, and PayPal. By
+using blockchain technology, these companies aim to reduce transaction
+fees, increase transaction speed, and improve security. For example,
+Mastercard has launched a blockchain-based platform for cross-border
+payments, while Visa is working on a blockchain-based platform for
+business-to-business payments. By developing a payment system for
+business infrastructure based on blockchain technology, the project can help
+businesses to streamline their financial processes, reduce costs, and improve
+their overall efficiency. 
+
 ## PROJECT OUTCOME: Product
 We aim to deliver a product that could potentially offer several benefits to
 businesses, including increased efficiency, reduced costs, improved transparency,
